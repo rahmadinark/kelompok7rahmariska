@@ -164,7 +164,7 @@ Namun mereka diberi tahu lagi oleh programmer senior, pak Dzul. dimana ternyata 
   ![A1](asset/30.png)
 - Setting autostart
   ```
-  echo "lxc.start.auto = 1" >> /var/lib/lxc/ubuntu_landing/config
+  echo "lxc.start.auto = 1" >> /var/lib/lxc/ubuntu_php7.4/config
   exit
   ```
   ![A1](asset/31.png)
